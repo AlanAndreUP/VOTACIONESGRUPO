@@ -29,7 +29,7 @@ const LoginForm = () => {
 
     if (isValid) {
       try {
-        const response = await axios.post('http://localhost:3000/api/hello', {
+        const response = await axios.post('https://fanciful-syrniki-90f1b1.netlify.app/api/hello', {
           email,
           password,
         });
