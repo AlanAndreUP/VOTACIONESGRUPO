@@ -11,17 +11,17 @@ const Gracias = () => {
       <div className="option">
         <img src="/photo2.jpg" alt="Opción 1" />
         <p>Angelica Reyes 3 A</p>
-        <button >45 Votos</button>
+        <button >145 Votos</button>
       </div>
       <div className="option">
         <img src="/photo1.jpg" alt="Opción 2" />
         <p>Sofia Andrea 5 C</p>
-        <button> 35 Votos</button>
+        <button> 75 Votos</button>
       </div>
       <div className="option">
         <img src="/photo3.jpg" alt="Opción 3" />
         <p>Yamilet Diaz 1 B</p>
-        <button>10 Votos</button>
+        <button>53 Votos</button>
       </div>
     </div>
     <style jsx>{`
